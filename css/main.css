@@ -1,0 +1,169 @@
+/* BODY */
+
+body {
+	background-color: #0C120C;
+	color: #EAE0D5;
+	font-family: 'Oswald', sans-serif;
+}
+
+.full-width {
+	width: 1400px;
+}
+
+.half-width {
+	width: 600px;
+}
+
+.third-width {
+	width: 465px;
+}
+
+.section-title {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.section-title h2 {
+	color: #75BBA7;
+}
+
+
+h2 {
+	color: #2F4A59;
+	font-size: 36px;
+}
+
+h3 {
+	color: #2F4A59;
+	font-size: 30px;
+}
+
+p {
+	font-size: 24px;
+}
+
+/* HEADER */
+
+#banner {
+	background-image: url(../img/forest.jpg);
+	background-size: 1400px ;
+	height: 750px;
+}
+
+#banner div {
+	padding-left: 50px;
+	padding-top:50px;
+}
+
+nav{
+	float: right;
+	font-size: 30px;
+	padding-right: 40px;
+	margin-top: -100px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-left: 45px;
+	text-decoration: none;
+}
+
+nav a {
+	text-decoration: none;
+	color: #2F4A59;
+}
+
+
+h2,
+li {
+	font-size: 30px;
+}
+
+h1 {
+	font-size: 90px;
+	text-transform: uppercase;
+	padding-top: 75px;
+	clear: both;
+}
+
+h1 span {
+	color: #75BBA7;
+}
+
+
+/* PORTFOLIO */
+
+.projects {
+	padding: 50px 0px 50px 50px;
+	clear: both;
+}
+
+.projects h3 {
+	color: #D3D0CB;
+	text-transform: uppercase;
+}
+
+.project {
+	margin-bottom: 50px;
+}
+
+.description {
+	width: 700px;
+	float: right;
+	clear: both;
+	padding-right: 50px;
+	margin-top: -350px;
+}
+
+
+/* ABOUT */
+
+#about {
+	background-image: url(../img/workspace.jpg);
+	background-size: 1400px 570px;
+	height: 550px;
+	padding-top: 20px;
+}
+
+#about h2 {
+	color: #75BBA7;
+}
+
+#about p {
+	margin-left: 50px;
+	padding-left:10px;
+	color: #EFE9F4;
+	background-color: rgb(23, 29, 38, .5);
+	border-radius: 25px;
+}
+
+/* CONNECT */
+
+.third-width {
+	float: left;
+	justify-content: center;
+}
+
+#connect {
+	clear: both;
+	text-align: center;
+}
+
+#connect a {
+	color: #EAE0D5;
+	text-decoration: none;
+	
+}
+/* FOOTER */
+
+footer {
+	clear: both;
+	text-align: center;
+	margin-top: 15px;
+	opacity: .50;
+}
+
+
+
+
+
